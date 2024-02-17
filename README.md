@@ -1,0 +1,2 @@
+# NewzIn
+ News Summerisation App
